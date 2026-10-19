@@ -15,7 +15,7 @@
 </p>
 
 ---
-
+<img src="https://raw.githubusercontent.com/Khatera22/Khatera22/output/github-snake-dark.svg" />
 ### 🙋‍♀️ About Me
 - 🎓 Computer Engineering student at **[University]**
 - 🔭 Currently working on **[your project]**
