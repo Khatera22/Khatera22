@@ -15,7 +15,6 @@
 </p>
 
 ---
-<img src="https://raw.githubusercontent.com/Khatera22/Khatera22/output/github-snake-dark.svg" />
 ### 🙋‍♀️ About Me
 - 🎓 Computer Engineering student at **[University]**
 - 🔭 Currently working on **[your project]**
@@ -47,3 +46,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 </p>
+<img src="https://raw.githubusercontent.com/Khatera22/Khatera22/output/github-snake-dark.svg" />
