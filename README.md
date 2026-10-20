@@ -42,6 +42,7 @@
   <img src="https://streak-stats.demolab.com?user=Khatera22&theme=tokyonight&hide_border=true" />
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khatera22&theme=tokyo-night&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Khatera22/Khatera22/output/github-snake-dark.svg" />
 <!-- Footer banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
