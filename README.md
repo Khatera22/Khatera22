@@ -18,7 +18,7 @@
 ### 🙋‍♀️ About Me
 - 🎓 Computer Engineering student at @Senece Polytechnic
 - 🔭 Currently working on 
-- 🌱 Learning **[e.g. embedded systems, Verilog, Linux]**
+- 🌱 Learning embedded systems, Verilog, Linux
 - 💬 Ask me about **C, Python, and hardware projects**
 
 ### 🛠️ Tech Stack
