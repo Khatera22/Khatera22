@@ -41,7 +41,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Khatera22&theme=tokyonight&hide_border=true" />
 </p>
-<h3 align="center">🐍 Contributions · Oct 2025 – Oct 2026</h3>
+<h3 align="center">🐍 Contributions · <!--DATE-->Oct 2025 – Oct 2026<!--/DATE--></h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Khatera22/Khatera22/output/github-snake-dark.svg" />
 </p>
